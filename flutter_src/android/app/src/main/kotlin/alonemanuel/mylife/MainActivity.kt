@@ -1,4 +1,4 @@
-package alonemanuel.my_life
+package alonemanuel.mylife
 
 import io.flutter.embedding.android.FlutterActivity
 
