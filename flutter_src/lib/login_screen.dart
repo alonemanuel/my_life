@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:mylife/utils/constants.dart';
 
 class LoginScreen extends StatefulWidget {
   @override
@@ -11,7 +12,18 @@ class _LoginScreenState extends State<LoginScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
-      body: Text("yo"),
+      body: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            TextField(
+              style: kEmailTextFieldStyle,
+              decoration: kEmailTextFieldDecoration,
+            ),
+            TextField(
+                style: kEmailTextFieldStyle,
+                decoration: kPasswordTextFieldDecoration),
+          ]),
     );
   }
 }
