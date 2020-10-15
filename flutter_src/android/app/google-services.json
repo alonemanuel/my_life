@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554887771868",
+    "firebase_url": "https://mylife-721ec.firebaseio.com",
+    "project_id": "mylife-721ec",
+    "storage_bucket": "mylife-721ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554887771868:android:0e7505245964a1d8ba6619",
+        "android_client_info": {
+          "package_name": "alonemanuel.mylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554887771868-e56lqfult8nj6m6gva92pr40c8td18fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXTwj3jvYeZzWiACREPCMOsb609w1dnlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554887771868-e56lqfult8nj6m6gva92pr40c8td18fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
